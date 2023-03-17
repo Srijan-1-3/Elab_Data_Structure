@@ -1,4 +1,4 @@
-/* Dhruvan has planned a bicycle tour through the Western Ghats of Tamil Nadu */
+/* Dhuruvan has planned a bicycle tour through the Western Ghats of Tamil Nadu */
 
 #include <stdio.h>
 int main()
