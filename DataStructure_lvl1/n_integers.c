@@ -1,4 +1,4 @@
-/* Selvan is very interested in surfing the contents from Google. He searches the various coding test on Google. */
+/* Given an array of n integers, your task is to process q queries of the form. */
 
 #include<bits/stdc++.h>
 using namespace std;
